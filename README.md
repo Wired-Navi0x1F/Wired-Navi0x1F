@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SYSTEM_BREACH&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Narratus-SpectraObserva&fontSize=70&fontColor=ff00ff&animation=twinkling&color=gradient&customColorList=9,12,15,18,21" />
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  >>> ESTABLISHING SECURE CONNECTION TO [ha-141006]          ║
-║  >>> PROTOCOL: LAYER_07_ACTIVE                              ║
-║  >>> STATUS: ████████████░░░░ SYNCHRONIZING...              ║
+║  >>> ESTABLISHING SECURE CONNECTION TO [ha-141006...]         ║
+║  >>> PROTOCOL: LAYER_07_ACTIVE                                ║
+║  >>> STATUS: ████████████░░░░ SYNCHRONIZING...                ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -17,51 +17,39 @@
 ```javascript
 const player = {
   id: "ha-141006",
-  class: "Full Stack Mage",
+  class: "Developer",
   alignment: "Chaotic Creative",
   realm: "The Digital Abyss",
   hp: "∞", mp: "COFFEE_DEPENDENT"
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
 ### ⚔️ COMBAT STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=ha-141006&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff6b35&text_color=00ff41&ring_color=ff6b35&hide=contribs" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ha-141006&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=ff6b35&fire=ff6b35&currStreakLabel=00ff41&sideLabels=00ff41" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=ha-141006&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=ff00ff&icon_color=ff00ff&text_color=ff99ff&ring_color=cc00ff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-141006&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=ff00ff&text_color=ff99ff" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-141006&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---
 
 ### 🎮 SKILL LOADOUT
 
-![Python](https://img.shields.io/badge/PYTHON-★★★★★-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-★★★★☆-00ff41?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0d1117)
-![React](https://img.shields.io/badge/REACT-★★★★☆-00d9ff?style=for-the-badge&logo=react&logoColor=00d9ff&labelColor=0d1117)
-![Node](https://img.shields.io/badge/NODE.JS-★★★★☆-00ff41?style=for-the-badge&logo=node.js&logoColor=00ff41&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/DOCKER-★★★☆☆-00d9ff?style=for-the-badge&logo=docker&logoColor=00d9ff&labelColor=0d1117)
-![Git](https://img.shields.io/badge/GIT-★★★★★-ff6b35?style=for-the-badge&logo=git&logoColor=ff6b35&labelColor=0d1117)
+![Python](https://img.shields.io/badge/PYTHON-★★★★★-ff00ff?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=1a001a)
+![C](https://img.shields.io/badge/C-★★★☆☆-cc00ff?style=for-the-badge&logo=c&logoColor=ffffff&labelColor=1a001a)
+![C#](https://img.shields.io/badge/C%23-★★★★☆-ff33ff?style=for-the-badge&logo=c-sharp&logoColor=ffffff&labelColor=1a001a)
+![HTML](https://img.shields.io/badge/HTML-★★★★★-ff66ff?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=1a001a)
+![CSS](https://img.shields.io/badge/CSS-★★★★★-9900ff?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1a001a)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-★★★★☆-cc33ff?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=1a001a)
+![Unity](https://img.shields.io/badge/UNITY-★★★★★-6600cc?style=for-the-badge&logo=unity&logoColor=ffffff&labelColor=1a001a)
+![Aseprite](https://img.shields.io/badge/ASEPRITE-★★★★☆-ff00ff?style=for-the-badge&logo=aseprite&logoColor=ffffff&labelColor=1a001a)
+![Git](https://img.shields.io/badge/GIT-★★★★★-cc00ff?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=1a001a)
 
----
-
-### 🏆 ACHIEVEMENT LOG
-
-<img src="https://github-profile-trophy.vercel.app/?username=ha-141006&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-
----
-
-### 📊 ACTIVE QUESTS
-
-```diff
-+ [MAIN_QUEST] Building the future of tech
-! [SIDE_QUEST] Learning new frameworks daily
-- [DAILY_QUEST] Debug production errors: [ ██████░░░░ ] 60%
-# [WEEKLY_QUEST] Open source contributions: [ ████░░░░░░ ] 40%
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ha-141006&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=ff6b35&point=00d9ff" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
@@ -69,8 +57,8 @@ const player = {
 
 [![Portfolio](https://img.shields.io/badge/🏰_MAIN_BASE-PORTFOLIO-00ff41?style=for-the-badge&labelColor=0d1117)](https://yoursite.com)
 [![LinkedIn](https://img.shields.io/badge/💼_GUILD_HALL-LINKEDIN-00d9ff?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/ha-141006)
-[![Twitter](https://img.shields.io/badge/📡_BROADCAST-TWITTER-ff6b35?style=for-the-badge&labelColor=0d1117)](https://twitter.com/ha141006)
 [![Discord](https://img.shields.io/badge/🎮_PARTY_CHAT-DISCORD-9d00ff?style=for-the-badge&labelColor=0d1117)](https://discord.gg/yourinvite)
+
 
 ---
 
@@ -78,23 +66,27 @@ const player = {
 
 | ITEM | QUANTITY | BUFF |
 |------|----------|------|
-| ☕ Coffee | ∞ | +50 FOCUS |
-| 💻 Laptop | 1 | +100 PRODUCTIVITY |
-| 🎧 Headphones | 1 | +75 CONCENTRATION |
-| 🦆 Rubber Duck | 1 | +200 DEBUG_POWER |
-| 🌙 Late Night Energy | MAX | +999 CODE_QUALITY |
+| ☕ Coffee | ∞ | +50 **FOCUS** |
+| 💻 Laptop | 1 | +100 **PRODUCTIVITY** |
+| 🎧 Headphones | 1 | +75 **CONCENTRATION** |
+| 🦆 Rubber Duck | 1 | +200 **DEBUG_POWER** |
+| 🌙 Late Night Energy | MAX | +999 **CODE_QUALITY** |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 ---
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  > DAILY_LOG: Turning caffeine into code since [YEAR]       ║
-║  > MOTTO: "Ship fast, debug faster"                         ║
-║  > CURRENT_BOSS: async/await hell                           ║
+║  > DAILY_LOG: Turning caffeine into code since 2020           ║
+║  > MOTTO: "Ship fast, debug faster"                           ║
+║  > CURRENT_BOSS: async/await hell                             ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,15,18,21&height=150&section=footer&fontSize=40&fontColor=ff00ff&animation=twinkling" />
 
 ---
 
@@ -104,7 +96,5 @@ const player = {
 
 ![](https://komarev.com/ghpvc/?username=ha-141006&color=00ff41&style=for-the-badge&label=NETWORK_SCANS)
 ![](https://img.shields.io/github/followers/ha-141006?style=for-the-badge&color=ff6b35&labelColor=0d1117&logo=github&label=PARTY_MEMBERS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>

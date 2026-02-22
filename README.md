@@ -30,9 +30,6 @@ const player = {
 
 ### ⚔️ COMBAT STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=ha-141006&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=ff00ff&icon_color=ff00ff&text_color=ff99ff&ring_color=cc00ff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-141006&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=ff00ff&text_color=ff99ff" />
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---

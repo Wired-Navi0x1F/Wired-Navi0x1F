@@ -16,7 +16,7 @@
 
 ```javascript
 const player = {
-  id: "ha-141006",
+  id: "Wired-Navi0x1F",
   class: "Developer",
   alignment: "Chaotic Creative",
   realm: "The Digital Abyss",

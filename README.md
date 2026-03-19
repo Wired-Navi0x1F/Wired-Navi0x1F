@@ -66,7 +66,7 @@ const player = {
 | ☕ Coffee | ∞ | +50 **FOCUS** |
 | 💻 Laptop | 1 | +100 **PRODUCTIVITY** |
 | 🎧 Headphones | 1 | +75 **CONCENTRATION** |
-| 🦆 Rubber Duck | 1 | +200 **DEBUG_POWER** |
+| 🌇 Lain Plushie | 1 | +200 **DEBUG_POWER** |
 | 🌙 Late Night Energy | MAX | +999 **CODE_QUALITY** |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
